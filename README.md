@@ -3,9 +3,9 @@
 
 原理
 ---
-先获取PHPSESSID
-登录之后获取cookies
-https的每次get请求都要加上cookies，不然会失败。
+#先获取PHPSESSID
+#登录之后获取cookies
+#https的每次get请求都要加上cookies，不然会失败。
 
 用法:
 ---
