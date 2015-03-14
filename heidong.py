@@ -6,7 +6,7 @@ import cookielib
 import datetime
 import httplib
 
-#用户名和密
+#用户名和密码
 username = 'username'
 password = 'password'
 login_post_data= {
